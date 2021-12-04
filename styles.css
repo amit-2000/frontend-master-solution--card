@@ -99,4 +99,5 @@ body{
 
 .ethrem__flex{
     display: flex;
+    align-items: center;
 }
