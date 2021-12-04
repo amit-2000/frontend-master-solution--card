@@ -6,6 +6,7 @@ body{
     background-color:  hsl(217, 54%, 11%);
     font-size: 18px;
     font-family: 'Roboto', sans-serif;
+    letter-spacing: 0.4px;
 }
 .container__display__flex{
     display: flex;
