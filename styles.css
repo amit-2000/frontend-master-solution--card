@@ -57,6 +57,7 @@ body{
     font-weight: 400;
     font-size: 14px;
     color: cyan;
+    margin-left: 5px;
 }
 .avatar__display__flex{
     display: flex;
@@ -84,6 +85,8 @@ body{
 .color__days{
     font-size: 13px;
      color:  hsl(215, 51%, 70%);
+     margin-left: 5px;
+     width: 100%;
 }
 
 .attribution{
@@ -92,4 +95,8 @@ body{
     right: 50%;
     transform: translate(50%,50%);
     color: rgb(131, 131, 131);
+}
+
+.ethrem__flex{
+    display: flex;
 }
